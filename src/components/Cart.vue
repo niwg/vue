@@ -6,7 +6,7 @@
                 <td>勾选</td>
                 <td>课程名称</td>
                 <td>课程单价</td>
-                <td>数量</td>
+                <td>数量aa</td>
                 <td>课程总价</td>
             </tr>
             <tr v-for="(item) in courseItem" :key="item.id">
